@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
