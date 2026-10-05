@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
