@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
