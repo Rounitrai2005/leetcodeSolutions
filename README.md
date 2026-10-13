@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
