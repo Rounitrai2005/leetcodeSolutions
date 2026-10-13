@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
