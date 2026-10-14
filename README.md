@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 ## Enumeration
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 ## Primality Test
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
