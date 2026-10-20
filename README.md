@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
