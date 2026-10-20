@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
