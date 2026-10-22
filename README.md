@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
