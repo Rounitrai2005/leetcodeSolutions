@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
