@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
