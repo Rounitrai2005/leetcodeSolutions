@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1539-kth-missing-positive-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1539-kth-missing-positive-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
