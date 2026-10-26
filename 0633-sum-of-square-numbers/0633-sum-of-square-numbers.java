@@ -1,18 +1,19 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-        long start=0;
-        long end=(long)Math.sqrt(c);
-        while(start<=end){
-            long sum=start*start + end*end;
-            if(sum==c){
-                return true;
-            }
-            else if(sum<c){
-                start++;
+        long left = 0;
+        long right = (long) Math.sqrt(c);
+
+        while(left <= right){
+            long sum = left * left + right * right;
+            if(sum < c){
+                left++;
+            }else if(sum > c){
+                right--;
             }else{
-                end--;
+                return true;
             }
         }
         return false;
+        
     }
 }
