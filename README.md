@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1539-kth-missing-positive-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
