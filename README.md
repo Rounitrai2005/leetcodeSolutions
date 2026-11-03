@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0541-reverse-string-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0441-arranging-coins](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0507-perfect-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
