@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0645-set-mismatch) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -263,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
