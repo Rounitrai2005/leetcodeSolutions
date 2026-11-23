@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0645-set-mismatch) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
