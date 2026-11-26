@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
