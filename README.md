@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0796-rotate-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
+| [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
