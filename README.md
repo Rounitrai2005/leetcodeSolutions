@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0441-arranging-coins](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0503-next-greater-element-ii) |
