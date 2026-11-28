@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2460-apply-operations-to-an-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -319,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rounitrai2005/leetcodeSolutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
